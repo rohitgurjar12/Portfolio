@@ -66,4 +66,7 @@ src/
 
 ## Credits
 
-Designed & built by **Rohit Gurjar** · [LinkedIn](https://www.linkedin.com/in/rohitgurjar12/) · [GitHub](https://github.com/rohitgurjar12)
+Designed & built by **Rohit Gurjar**.
+
+- GitHub: [rohitgurjar12](https://github.com/rohitgurjar12)
+- LinkedIn: [rohitgurjar12](https://www.linkedin.com/in/rohitgurjar12)

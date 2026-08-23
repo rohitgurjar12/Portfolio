@@ -45,7 +45,7 @@ const PROJECTS: ProjectData[] = [
        number: '04',
        category: 'Personal',
        name: 'Portfolio',
-       liveUrl: '',
+       liveUrl: 'https://rohitgurjarportfolio.vercel.app/',
        col1Image1: '/portfolio.png',
        col1Image2: '/portfolio2.png',
        col2Image: '/portfolio3.png',
