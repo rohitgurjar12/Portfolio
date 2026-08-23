@@ -62,7 +62,7 @@ src/
 | TravelMate | [travellmate.vercel.app](https://travellmate.vercel.app) | Full-Stack Web Development |
 | Caferia | [caferiavintagecafe.vercel.app](https://caferiavintagecafe.vercel.app) | HTML, CSS, JavaScript |
 | SpotifyClone | [spotifycl0ne.vercel.app](https://spotifycl0ne.vercel.app) | HTML, CSS, JavaScript |
-| PortFolio | [portfolio.vercel.app](https://travellmate.vercel.app) | React, TypeScript, Vite, Tailwind CSS, Framer Motion |
+| PortFolio | [rohitgurjarportfolio.vercel.app](https://rohitgurjarportfolio.vercel.app) | React, TypeScript, Vite, Tailwind CSS, Framer Motion |
 
 ## Credits
 
