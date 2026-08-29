@@ -3,7 +3,7 @@ import ContactButton from './ContactButton';
 import AnimatedText from './AnimatedText';
 
 const ABOUT_TEXT =
-  "I'm an AI/ML Engineering Student with hands-on experience in fine-tuning large language models, Python, Java, and fall-stack development. Passionate about building intelligent software and learning AI technology. Looking for opportunities to grow as an AI Engineer and contribute to impactful, real-world AI Systems.";
+  "I'm an AI/ML Engineering Student with hands-on experience in Fine-tuning Large Language models, Python, Java, and Full-Stack Web development. Passionate about building intelligent software and learning AI technology. Looking for opportunities to grow as an AI Engineer and contribute to impactful, real-world AI Systems.";
 
 const AboutSection = () => {
   return (
